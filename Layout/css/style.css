@@ -1,0 +1,28 @@
+/*---------------Common-----------------*/
+body{
+	background-color: white;
+}
+.menu{
+	background: #330066;
+	height: 55px;
+	padding: 5px;
+}
+.home{
+	float: left;
+	color: white;
+}
+.search{
+	float: right;
+	padding: 10px;
+	text-align: right;
+	color: white;
+}
+.home h1{
+	font-size: 20px;
+}
+.footer{
+	background: yellow;
+	text-align: center;
+	position: relative;
+	bottom: 0;
+}
